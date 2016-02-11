@@ -1,0 +1,10 @@
+name: NoSwear
+main: me.A5H73Y.NoSwear.NoSwear
+version: 1.2
+description: >
+             Blocks swearing & spamming.
+commands:
+  ns:
+    description: NoSwear
+  noswear:
+    description: NoSwear
